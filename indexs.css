@@ -8,7 +8,7 @@ main{
     text-align: center;
     position: relative;
     top: 100;
-   
+   right: -35;
 }
 .submit{
     margin-top: 20px;
